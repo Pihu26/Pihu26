@@ -4,6 +4,10 @@
 
 ### 💻 **Blockchain Engineer | Smart Contract Developer | Web3 Enthusiast**
 
+![Blockchain Enthusiast](https://img.shields.io/badge/Blockchain-Enthusiast-1f425f.svg)
+![Smart Contract Developer](https://img.shields.io/badge/Smart_Contract-Developer-FF4088.svg?logo=ethereum&logoColor=white)
+
+
 Welcome to my GitHub profile! I’m passionate about building decentralized applications (DApps) and smart contracts that push the boundaries of blockchain technology. With a focus on creating secure, scalable solutions in the Web3 space, my experience spans across various blockchain platforms, including Ethereum, Solana, and Tron.
 
 ## 🌟 **Summary**
