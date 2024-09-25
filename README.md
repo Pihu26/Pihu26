@@ -37,7 +37,7 @@ As a continuous learner, I thrive on innovation and delivering real-world soluti
 ---
 
 ## 🚀 **What I Do**
-- **Cross-Chain Bridges**: Currentlu working on cross-chain bridges between Solana and Tron to enable seamless token transfers across ecosystems.
+- **Cross-Chain Bridges**: Currently working on cross-chain bridges between Solana and Tron to enable seamless token transfers across ecosystems.
 
 
 ---
