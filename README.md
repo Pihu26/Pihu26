@@ -7,7 +7,7 @@
 Welcome to my GitHub profile! I’m passionate about building decentralized applications (DApps) and smart contracts that push the boundaries of blockchain technology. With a focus on creating secure, scalable solutions in the Web3 space, my experience spans across various blockchain platforms, including Ethereum, Solana, and Tron.
 
 ## 🌟 **Summary**
-assionate about all things **blockchain**, I am a driven and curious **Smart Contract Developer** who thrives in the fast-paced, ever-evolving world of **Web3**. With a deep commitment to building secure, decentralized systems, I’m constantly exploring how blockchain can redefine industries and unlock new possibilities.
+Passionate about all things **blockchain**, I am a driven and curious **Smart Contract Developer** who thrives in the fast-paced, ever-evolving world of **Web3**. With a deep commitment to building secure, decentralized systems, I’m constantly exploring how blockchain can redefine industries and unlock new possibilities.
 
 I specialize in crafting robust **smart contracts** and developing innovative **decentralized applications (dApps)**. My focus is on **scalability**, **security**, and ensuring that every piece of code serves the future of decentralized tech. Whether it’s **ERC20 tokens**, **NFT marketplaces**, or exploring cross-chain solutions, I bring my passion for blockchain to every project I touch.
 
