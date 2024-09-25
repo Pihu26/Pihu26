@@ -28,18 +28,22 @@ As a continuous learner, I thrive on innovation and delivering real-world soluti
 ---
 
 ## 🚀 **What I Do**
-- **NFT Development**: Created dynamic SVG NFTs, Random IPFS NFTs, and standard ERC721 tokens.
-- **Cross-Chain Bridges**: Working on cross-chain bridges between Solana and Tron to enable seamless token transfers across ecosystems.
-- **ERC20 Tokens**: Designed and deployed ERC20 tokens with custom functionalities.
-- **Decentralized Lotteries**: Developed decentralized lottery systems using Chainlink VRF for randomness.
+- **Cross-Chain Bridges**: Currentlu working on cross-chain bridges between Solana and Tron to enable seamless token transfers across ecosystems.
+
 
 ---
 
 ## 🌐 **Languages & Frameworks**
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Moralis](https://img.shields.io/badge/Moralis-%2300A6FB.svg?style=for-the-badge&logo=moralis&logoColor=white)
+![Pinata](https://img.shields.io/badge/Pinata-%23FFCC00.svg?style=for-the-badge&logo=pinata&logoColor=black)
+![IPFS](https://img.shields.io/badge/IPFS-%2303A9F4.svg?style=for-the-badge&logo=ipfs&logoColor=white)
+![Filecoin](https://img.shields.io/badge/Filecoin-%23FFD700.svg?style=for-the-badge&logo=filecoin&logoColor=blue)
+![The Graph](https://img.shields.io/badge/The%20Graph-%236B33FF.svg?style=for-the-badge&logo=the-graph&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 
 ---
 
